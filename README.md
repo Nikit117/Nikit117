@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Nikit
 
-<!--
-**Nikit117/Nikit117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer at ABB, Bangalore. I build tools that make sense of messy documents — PDFs, scans, tables with thousands of rows.
 
-Here are some ideas to get you started:
+#### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[KYNEX](https://github.com/Nikit117/kynex-harness)** — an agentic document extraction harness.  
+  Rank 12 on [ExtractBench](https://github.com/run-llama/ExtractBench) with 92.97 F1, verified by LlamaIndex.  
+  It reads a document the way a careful analyst does: page by page, tool by tool.
+
+#### Areas
+
+Document AI · Agentic Systems · Computer Vision · Structured Extraction
+
+#### Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikit-kashyap/)
